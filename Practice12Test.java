@@ -3,6 +3,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.util.Random;
 import java.util.ArrayList;
+import java.util.*;
 
 
 public class Practice12Test {
